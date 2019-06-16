@@ -7,4 +7,7 @@ This should also work in full screen apps.
 
 Supports Windows 8+
 
-Default global hotkey to toggle mute: CTRL + M
+Default global hotkey to toggle mute state: CTRL + M
+(configurable via tray context menu)
+
+[Download latest release](https://github.com/Semitalis/MicTools/releases/latest).
