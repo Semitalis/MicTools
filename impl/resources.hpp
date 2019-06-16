@@ -1,0 +1,27 @@
+#include <afxwin.h>
+
+#define IDOK 1
+#define IDCANCEL 2
+
+#define MIC_ON 101
+#define MIC_OFF 102
+
+#define IDC_HOTKEY 1000
+
+#define ID_TRAY_APP_ICON 1001
+#define ID_TRAY_SET_HOTKEY 1002
+#define ID_TRAY_EXIT 1003
+
+#define IDD_HK_DIALOG 2000
+
+#define ID_MT_HK_TOGGLE_MUTE 1
+
+#define WM_MT_AFTER_CREATE 0x0500
+#define WM_MT_SYSICON 0x0501
+#define WM_MT_NOTIFY 0x0502
+#define WM_MT_MESSAGE 0x0503
+#define WM_MT_SET_HOTKEY 0x0504
+
+#define WM_MT_CHECK_MUTE 0x0600
+#define WM_MT_TOGGLE_MUTE 0x0602
+#define WM_MT_MUTE_STATE 0x0603
