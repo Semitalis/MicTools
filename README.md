@@ -5,6 +5,8 @@ Shows and allows to toggle current microphone mute state via tray icon.
 It additionally allows to see state changes via toast notifications.
 This should also work in full screen apps.
 
+![](https://github.com/Semitalis/MicTools/raw/master/resources/example.jpg "")
+
 Supports Windows 8+
 
 Default global hotkey to toggle mute state: CTRL + M
